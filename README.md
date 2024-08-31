@@ -92,8 +92,7 @@ Abra seu navegador e acesse o endereço fornecido pelo Vite (por padrão, http:/
 - GitHub
 
 ### Video Multi-App Refatorado
-<video src="
-https://github.com/user-attachments/assets/8da7371d-7e0e-480c-acd1-16e1cdd24352" controls></video>
+<video src="https://github.com/user-attachments/assets/8da7371d-7e0e-480c-acd1-16e1cdd24352" controls></video>
 
 ### Autor
 
